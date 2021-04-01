@@ -1,0 +1,6 @@
+menu--montserrat semibold
+grp1 h1,p --poppins bold...button--montserrat regular
+grp2 h1--bebasNeue bold...p--montserrat light....a--montserrat semibold
+grp3 h2--poppins semibold...h1--bebasNeue bold...p--mont light....$--mont bold...$-- mont medium...butooon- mont regular
+grp4 addh1--bebasNeue bold...imgae h1--poppins bold italic...image button--motserrat regular...div h1---bebasNeue bold..p--mont regu
+grp7 all--poppins regular
